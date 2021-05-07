@@ -1,3 +1,13 @@
+.text-area{
+    width: 80% !important;
+    
+}
+
+
+
+
+
+
 .form-control textarea{
     resize: none;
     outline: none;
